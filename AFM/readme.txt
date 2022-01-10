@@ -1,0 +1,1 @@
+.00x extensions are Nanoscope files
